@@ -9,8 +9,12 @@ Esta API fornece endpoints para gerenciamento de planos de hospedagem e VPS, per
 - Proteção CORS configurável
 
 ## 🌎 URL Base
-A API está disponível em:  
-`https://api.seudominio.com`
+A API pode ser instalada em:  
+`https://seudominio.com`
+ou
+`https:/api-v1.seudominio.com`
+ou até mesmo
+`https://seudominio.com/api-v2`
 
 ---
 
