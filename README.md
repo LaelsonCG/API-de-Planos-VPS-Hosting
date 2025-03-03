@@ -10,7 +10,7 @@ Esta API fornece endpoints para gerenciamento de planos de hospedagem e VPS, per
 
 ## 🌎 URL Base
 A API está disponível em:  
-`https://api.clickhost.cloud`
+`https://api.seudominio.com`
 
 ---
 
